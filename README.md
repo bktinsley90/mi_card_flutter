@@ -1,1 +1,1 @@
-![MiCard]('./images/final.png)
+![MiCard](images/final.png)
